@@ -1,0 +1,13 @@
+int a=5@;
+int b@=5;
+int c=5
+int; p
+int int=5;
+int var-a=12;
+float d=1.1.1;
+int b=10000000000000;
+float e=1..0;
+char str1="Hola;
+
+int j=10;
+char str2="Hola Mundo";
